@@ -37,3 +37,7 @@ A WPF GUI chatbot that educates users on cybersecurity topics including password
 
 - ## Version
 - v1.0 - Initial Release
+
+ ## GitHub Action CI
+ - Automated build workflow runs on every push
+ - Ensures code quality and successful builds
