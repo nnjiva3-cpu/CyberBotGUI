@@ -1,4 +1,5 @@
-﻿using System;
+// CyberBot GUI - Part 2 - Cybersecurity Awareness Chatbot
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Media;
