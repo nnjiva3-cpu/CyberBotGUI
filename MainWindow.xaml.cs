@@ -1,4 +1,5 @@
 // CyberBot GUI - Part 2 - Cybersecurity Awareness Chatbot
+<!-- CyberBotGUI - Main Window Layout - Cybersecurity Awareness Chatbot -->
 using System;
 using System.Collections.Generic;
 using System.IO;
