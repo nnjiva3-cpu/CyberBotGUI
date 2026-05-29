@@ -34,3 +34,6 @@ A WPF GUI chatbot that educates users on cybersecurity topics including password
 ## Project Structure
 - MainWindow.xaml - GUI layout
 - MainWindow.xaml.cs - All logic, responses and delegates
+
+- ## Version
+- v1.0 - Initial Release
